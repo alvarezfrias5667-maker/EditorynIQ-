@@ -1,0 +1,15 @@
+:root {
+  --color-midnight-navy: #081629;
+  --color-deep-navy: #101f37;
+  --color-royal-blue: #345cff;
+  --color-electric-blue: #5275ff;
+  --color-turquoise: #16c8ba;
+  --color-premium-gold: #e9bc72;
+  --color-background: #f6f8fc;
+  --color-white: #ffffff;
+  --color-primary-text: #101828;
+  --color-secondary-text: #64748b;
+  --color-hairline-border: #e2e8f0;
+  --color-success: #16836d;
+  --color-error: #d14343;
+}
